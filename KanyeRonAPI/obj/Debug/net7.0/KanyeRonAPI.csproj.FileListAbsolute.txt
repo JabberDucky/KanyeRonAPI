@@ -1,0 +1,17 @@
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\bin\Debug\net7.0\KanyeRonAPI.exe
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\bin\Debug\net7.0\KanyeRonAPI.deps.json
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\bin\Debug\net7.0\KanyeRonAPI.runtimeconfig.json
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\bin\Debug\net7.0\KanyeRonAPI.dll
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\bin\Debug\net7.0\KanyeRonAPI.pdb
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.csproj.AssemblyReference.cache
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.AssemblyInfoInputs.cache
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.AssemblyInfo.cs
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.csproj.CoreCompileInputs.cache
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.csproj.CopyComplete
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.dll
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\refint\KanyeRonAPI.dll
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.pdb
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\KanyeRonAPI.genruntimeconfig.cache
+C:\Users\katva\Desktop\repos\KanyeRonAPI\KanyeRonAPI\obj\Debug\net7.0\ref\KanyeRonAPI.dll
